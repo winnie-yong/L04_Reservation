@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Enter your name</string>
+    <string name="nameInput">Winnie</string>
+    <string name="number">Mobile number </string>
+    <string name="num">12345678</string>
+    <string name="group_size">Size of group </string>
+    <string name="pax">eg:5 </string>
+    <string name="date">Date of booking: </string>
+    <string name="time">Time of booking: </string>
+    <string name="seat">Preferred seat: </string>
+    <string name="smoking">Smoking area </string>
+    <string name="non_smoke">Non smoking area </string>
+    <string name="reset">Reset </string>
+    <string name="submit">Submit </string>
+</resources>
